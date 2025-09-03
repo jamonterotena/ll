@@ -1,0 +1,25 @@
+{% assign skills_sidebar = site.data.data.sidebar.skills_sidebar %}
+{% if skills_sidebar %}
+<div class="skills_sidebar-container container-block">
+
+  <!-- Print main skills title -->
+  <h1 class="container-block-title">
+    {{ skills_sidebar.title }}
+  </h1>
+
+  {% for category in skills_sidebar.categories %}
+  <h4 class="container-block-subtitle">
+    {{ category.title }}
+  </h4>
+
+  <ul class="list-unstyled interests-list">
+    {% for skill in category.info %}
+    <li>
+      <span class="lang-desc">{{ skill.level }}</span>&nbsp;&nbsp;&nbsp;&nbsp;{{ skill.idiom }}
+    </li>
+    {% endfor %}
+  </ul>
+  {% endfor %}
+
+</div><!--//skills-->
+{% endif %}
