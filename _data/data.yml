@@ -1,12 +1,12 @@
 career-profile:
   title: ÜBER MICH
   summary: |
-        - Fundierter Hintergrund in **Molekulargenetik** (NGS-Analyse) und Multi-Omics
+        - Fundierter Hintergrund in **Multi-Omics** (NGS, WGS, WGBS, RNAseq)
+        - Ich habe **Workflows** in R für **Verarbeitung** und **Ergebnisinterpretation** von *genomischen, transkriptomischen, und methylomischen Daten* entworfen und alles mit Quarto für mein Promotionsprojekt dokumentiert [IN DIESEM BERICHT](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
         - Erfahrung im Entwerfen, Aufbau, Dokumentieren und Warten von [**OMICS-Workflows**](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) für wissenschaftliche Projekte
         - Nachgewiesene Erfahrung in Lehre, Betreuung von Studierenden, **Unterstützung** von Kolleg:innen beim Beheben von Bugs sowie Schulungen zu bioinformatischen Tools (z. B. *Git*, [siehe Empfehlungsschreiben](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
         - [Preisgekrönte mündliche **Kommunikation**](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
         - Technisch versiert (**R, Python, Bash, HPC**)
-#        - Ich habe **Workflows** in R für **Datenverarbeitung** und **Ergebnisinterpretation** entworfen und alles mit Quarto für mein Promotionsprojekt dokumentiert [IN DIESEM BERICHT](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
 #        - Entwicklung von **Front-End**-Tools mit **Shiny** für die [Visualisierung komplexer biologischer Daten](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
 #        - Erfahrung mit **Cloud Computing** und Infrastrukturmanagement (AWS, HPC, Versionskontrolle usw.)
 #        - Entwicklung automatisierter [**Pipelines**](https://github.com/GoliczGenomeLab/haploMAGIC) für [großskalige **Omics**-Datenanalyse (Genomik, Proteomik, Transkriptomik)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) in R- und Linux-Umgebungen
@@ -229,6 +229,8 @@ sidebar:
             level: ★★★★★
           - idiom: Next-Generation-Sequencing
             level: ★★★★★
+          - idiom: Verarbeitung von WGBS-Daten (Methylierung)
+            level: ★★★★★            
 #         - idiom: Workflow-Automatisierung
 #           level: ★★★★★
 #         - idiom: Proteomik-Datenanalyse
@@ -272,3 +274,4 @@ sidebar:
       - item: "🎸 Klassische Gitarre"
       - item: "🚵 Mountainbike"
       - item: "🗣️ Sprachen"
+
