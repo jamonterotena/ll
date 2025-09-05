@@ -12,7 +12,7 @@ career-profile:
 experiences:
   title: BERUFSERFAHRUNG
   info:
-    - role: "Wissenschaftlicher Mitarbeiter"
+    - role: "Wissenschaftlicher Mitarbeiter (Ph.D.)"
       time: "März 2022 – Feb 2025"
       company: "Justus-Liebig-Universität (JLU)"
       details: |
@@ -27,11 +27,18 @@ experiences:
       company: "Deutsche Saatveredelung (DSV)"
       details: |
         - Einblicke in **unternehmerische Abläufe** und **datenbasierte Entscheidungsprozesse**
+    - role: "Lehrer für Naturwissenschaften"
+      time: "Sep 2018 – Jul 2019"
+      company: "Holmer Green Senior School (HGSS)"
+      details: |
+        - Unterricht in Physik, Chemie und Biologie
+        - Betreuung praktischer Übungen, Bewertung von Aufgaben und Prüfungen
+        - **Regelmäßige Kommunikation mit Eltern und Kolleg:innen**
 
 education:
   title: Ausbildung
   info:
-    - degree: "Promotion (Ph.D.)"
+    - degree: "Promotion (Ph.D.) in Bioinformatik / Data Science"
       university: "Justus-Liebig-Universität (JLU)"
       time: "März 2022 – Feb 2025 (vorauss.)"
       details: |
@@ -41,6 +48,115 @@ education:
       time: "Okt 2019 – Okt 2021"
       details: |
         - Schwerpunkt: **Programmierung und Datenanalyse mit R**
+    - degree: "M.Ed. Lehramtsausbildung Sekundarstufe"
+      university: "Universität Extremadura (UEx)"
+      time: "Okt 2017 – Jun 2018"
     - degree: "B.Sc. in Biochemie"
       university: "Universität Sevilla (US)"
       time: "Sep 2013 – Jul 2017"
+      details: |
+        - Vielfältige Laborpraktika; Bachelorarbeit zur Analyse großer biologischer Datensätze
+
+publications:
+  title: Beiträge / Veröffentlichungen
+  papers:
+    - title: "haploMAGIC: accurate phasing and detection of recombination in multiparental populations despite genotyping errors"
+      authors: "Montero-Tena JA, Abdollahi Sisi N, Kox T, Abbadi A, Snowdon RJ, Golicz AA"
+      conference: "G3 (Bethesda) (2024)"
+      link: https://academic.oup.com/g3journal/article/14/8/jkae109/7684607
+    - title: "Vortrag (Video ansehen): Machine Learning für komplexe Datensätze (Best Student Presentation)"
+      authors: "Montero-Tena JA"
+      conference: "IRC International Rapeseed Congress, Sydney, Australien (2023)"
+      link: https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s
+
+certifications:
+  title: Zertifikate
+  list:
+    - name: "Workshop: Maschinelles Lernen mit tidymodels"
+      start: "Aug 2024"
+      organization: "Posit Conference, Seattle, USA"
+      credentialurl: www.linkedin.com/posts/chaima-boug_seattle-posit-positconf2024-ugcPost-7229004878839255042-B4LL
+      credentialname: link
+    - name: "DataCamp-Kurse (x18) in Python, R und Shell – Programmiergrundlagen, Datenmanipulation, Statistik und Machine Learning"
+      start: 2022
+      organization: "DataCamp"
+      credentialurl: www.datacamp.com/portfolio/jamonterotena?view=true
+      credentialname: link
+    - name: "Bioinformatik für Einsteiger:innen"
+      start: "Sep 2021"
+      organization: "Coursera, UC San Diego"
+      credentialurl: www.linkedin.com/posts/joseantoniomonterotena_completion-certificate-for-biology-meets-activity-6841831236089065472-7bwX
+      credentialname: link
+    - name: "Ganzgenomsequenzierung bakterieller Genome"
+      start: "Sep 2021"
+      organization: "Coursera, TU Dänemark"
+      credentialurl: www.linkedin.com/posts/joseantoniomonterotena_completion-certificate-for-whole-genome-sequencing-activity-6848685870837575682-CJvV
+      credentialname: link
+
+sidebar:
+  position: left
+  about: False
+  education: False
+
+  name: Jose Montero
+  tagline: Data Scientist (ML | Python/R | SQL) – Detailorientiert & Teamorientiert
+  avatar: agrobioinformatics.jpg
+
+  fullname: "Montero Tena, José Antonio"
+  citizenship: Spanier
+  timezone: Europe/Berlin
+  email: jmonterotena@gmail.com
+  linkedin: joseantoniomonterotena
+  github: jamonterotena
+  phone: "+34 603 769 969"
+
+  languages:
+    title: Sprachen
+    info:
+      - idiom: Spanisch
+        level: ★★★★★
+      - idiom: Englisch
+        level: ★★★★★
+      - idiom: Deutsch
+        level: ★★★★★
+      - idiom: Italienisch
+        level: ★★★☆☆
+
+  skills_sidebar:
+    title: Fähigkeiten
+    categories:
+      - title: "💻 Programmierung & Scripting"
+        info:
+          - idiom: Python (scikit-learn, Pandas)
+            level: ★★★★☆
+          - idiom: R (tidymodels, tidyverse)
+            level: ★★★★★
+          - idiom: SQL
+            level: ★★★★☆
+          - idiom: Bash
+            level: ★★★★☆
+      - title: "📊 Datenanalyse & ML"
+        info:
+          - idiom: Klassifikation & Regression
+            level: ★★★★★
+          - idiom: Explorative Datenanalyse
+            level: ★★★★★
+          - idiom: Feature Engineering
+            level: ★★★★☆
+          - idiom: Präsentationen & Workshops
+            level: ★★★★★
+      - title: "🖥️ Tools & Infrastruktur"
+        info:
+          - idiom: Git, Quarto, Shiny
+            level: ★★★★★
+          - idiom: HPC & Linux-Terminal
+            level: ★★★★☆
+          - idiom: Spark, Hive (Grundkenntnisse)
+            level: ★★☆☆☆
+
+  interests:
+    title: Interessen
+    info:
+      - item: "🎸 Klassische Gitarre"
+      - item: "🚵 Mountainbike"
+      - item: "🗣️ Sprachen"
