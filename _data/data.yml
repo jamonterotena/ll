@@ -1,8 +1,8 @@
 career-profile:
   title: ÜBER MICH
   summary: |
-        - Erfahrung in **Bioinformatik** mit fundierter Erfahrung in **Machine Learning** (Regression, Klassifikation) und **Statistik**
-        - Leidenschaft, aus komplexen Daten mit ML-Methoden wertvolle **Insights** zu gewinnen und in automatisierte Lösungen umzusetzen
+        - Erfahrung in **Datenwissenschaft und Bioinformatik** mit fundierter Praxis in **Machine Learning** (Regression, Klassifikation) und **Statistik**
+        - Leidenschaft, aus komplexen Datensätzen mit ML-Methoden wertvolle **Insights** zu gewinnen und in automatisierte Lösungen umzusetzen
         - Praktische Erfahrung mit **scikit-learn (Python)** und **tidymodels (R)** für Datenmodellierung, Feature-Engineering und Evaluation
         - Kenntnisse in **SQL** und Erfahrung mit Datenbanken, Datenaufbereitung und explorativer Analyse
         - Sehr gute Kommunikationsfähigkeiten: Erstellung von Präsentationen, Workshops und [preisgekrönte Vorträge](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
@@ -16,11 +16,11 @@ experiences:
       time: "März 2022 – Feb 2025"
       company: "Justus-Liebig-Universität (JLU)"
       details: |
-        - Entwicklung von ML-Pipelines für **Klassifikation** (Hotspot-Vorhersage) und **Regression** (Rekombinationsraten) mit R (tidymodels) und Python (scikit-learn)
-        - Nutzung von **SQL** für Datenabfragen und Aufbereitung großer Omics-Datensätze
-        - Aufbau und Dokumentation von Workflows für Datenverarbeitung und Analyse mit Quarto ([siehe Bericht](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html))
+        - Entwicklung von **ML-Pipelines** für Klassifikation und Regression mit R (tidymodels) und Python (scikit-learn)
+        - Analyse und Aufbereitung von **großen, komplexen Datensätzen** (mehrere Millionen Datenpunkte) inkl. Nutzung von SQL
+        - Aufbau und Dokumentation von **Workflows** für Datenverarbeitung und Analyse mit Quarto ([siehe Bericht](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html))
         - Erstellung interaktiver **Visualisierungen** und Präsentationen (Shiny, Quarto, PowerPoint) für interdisziplinäre Teams
-        - Zusammenarbeit in einem großen **Daten- & Bioinformatik-Team**; Training von Kolleg:innen in Git und Betreuung von Studierenden
+        - Zusammenarbeit in einem großen **Data-Science-Team**; Training von Kolleg:innen in Git und Betreuung von Studierenden
         - Auszeichnung **Best Student Presentation** für herausragende Datenanalyse und Ergebnisdarstellung ([Video](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s))
     - role: "Industriepraktikant"
       time: "März 2021 – April 2021"
@@ -31,54 +31,16 @@ experiences:
 education:
   title: Ausbildung
   info:
-    - degree: "Promotion (Ph.D.) in Bioinformatik"
+    - degree: "Promotion (Ph.D.)"
       university: "Justus-Liebig-Universität (JLU)"
       time: "März 2022 – Feb 2025 (vorauss.)"
       details: |
-        - Schwerpunkte: Machine Learning, Datenanalyse, Statistik, Workflow-Entwicklung
+        - Schwerpunkt: **Machine Learning, Datenanalyse, Statistik, Workflow-Entwicklung** für große Datensätze
     - degree: "M.Sc. in Agrobiotechnologie"
       university: "Justus-Liebig-Universität (JLU)"
       time: "Okt 2019 – Okt 2021"
       details: |
-        - Schwerpunkt: **NGS- und Omics-Datenanalyse, R-Programmierung**
+        - Schwerpunkt: **Programmierung und Datenanalyse mit R**
     - degree: "B.Sc. in Biochemie"
       university: "Universität Sevilla (US)"
       time: "Sep 2013 – Jul 2017"
-
-sidebar:
-  name: Jose Montero
-  tagline: Data Scientist (ML | Python/R | SQL) – Detailorientiert & Teamorientiert
-  avatar: agrobioinformatics.jpg
-
-  skills_sidebar:
-    title: Fähigkeiten
-    categories:
-      - title: "💻 Programmierung & Scripting"
-        info:
-          - idiom: Python (scikit-learn, Pandas)
-            level: ★★★★☆
-          - idiom: R (tidymodels, tidyverse)
-            level: ★★★★★
-          - idiom: SQL
-            level: ★★★★☆
-          - idiom: Bash
-            level: ★★★★☆
-      - title: "📊 Datenanalyse & ML"
-        info:
-          - idiom: Klassifikation & Regression
-            level: ★★★★★
-          - idiom: Explorative Datenanalyse
-            level: ★★★★★
-          - idiom: Feature Engineering
-            level: ★★★★☆
-          - idiom: Präsentationen & Workshops
-            level: ★★★★★
-      - title: "🖥️ Tools & Infrastruktur"
-        info:
-          - idiom: Git, Quarto, Shiny
-            level: ★★★★★
-          - idiom: HPC & Linux-Terminal
-            level: ★★★★☆
-          - idiom: Spark, Hive (Grundkenntnisse)
-            level: ★★☆☆☆
-
