@@ -1,13 +1,13 @@
 career-profile:
   title: ÜBER MICH
   summary: |
-        - Erfahrung in **Datenwissenschaft und Bioinformatik** mit fundierter Praxis in **Machine Learning** (Regression, Klassifikation) und **Statistik**
-        - Leidenschaft, aus komplexen Datensätzen mit ML-Methoden wertvolle **Insights** zu gewinnen und in automatisierte Lösungen umzusetzen
-        - Praktische Erfahrung mit **scikit-learn (Python)** und **tidymodels (R)** für Datenmodellierung, Feature-Engineering und Evaluation
-        - Kenntnisse in **SQL** und Erfahrung mit Datenbanken, Datenaufbereitung und explorativer Analyse
-        - Sehr gute Kommunikationsfähigkeiten: Erstellung von Präsentationen, Workshops und [preisgekrönte Vorträge](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
-        - Technisch versiert (**Python, R, Bash, HPC, Git, Quarto, Shiny**) und neugierig auf **Big-Data-Technologien** (Spark, Hive)
-        - Teamorientiert, detailorientiert und motiviert, moderne **Daten- & KI-Lösungen** bei Lidl mitzugestalten
+        - Erfahrung in **Bioinformatik und Datenwissenschaft** mit Schwerpunkt auf **Next-Generation Sequencing (NGS)** und **genomischen Datenanalysen**
+        - Entwicklung von **eigenen Bioinformatik-Tools** (z. B. [haploMAGIC](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)), optimiert für komplexe genomische Datensätze
+        - Fundierte Programmierkenntnisse in **Python (scikit-learn, Pandas, NumPy)** und **R (tidymodels, tidyverse)** für Datenmodellierung, Feature-Engineering und ML
+        - Praxis in **SQL** und Erfahrung mit Datenbanken, Datenintegration und explorativer Analyse
+        - Erstellung von reproduzierbaren **Workflows** und **Pipelines** (Quarto, Bash, HPC, Git) für großskalige Datenprojekte
+        - Sehr gute Kommunikationsfähigkeiten: Workshops, Konferenzvorträge, [preisgekrönte Präsentationen](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
+        - Teamorientiert, detailorientiert und hoch motiviert, moderne **Daten- & KI-Lösungen** in der Genomik umzusetzen
 
 experiences:
   title: BERUFSERFAHRUNG
@@ -16,24 +16,25 @@ experiences:
       time: "März 2022 – Feb 2025"
       company: "Justus-Liebig-Universität (JLU)"
       details: |
-        - Entwicklung von **ML-Pipelines** für Klassifikation und Regression mit R (tidymodels) und Python (scikit-learn)
-        - Analyse und Aufbereitung von **großen, komplexen Datensätzen** (mehrere Millionen Datenpunkte) inkl. Nutzung von SQL
-        - Aufbau und Dokumentation von **Workflows** für Datenverarbeitung und Analyse mit Quarto ([siehe Bericht](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html))
-        - Erstellung interaktiver **Visualisierungen** und Präsentationen (Shiny, Quarto, PowerPoint) für interdisziplinäre Teams
-        - Zusammenarbeit in einem großen **Data-Science-Team**; Training von Kolleg:innen in Git und Betreuung von Studierenden
-        - Auszeichnung **Best Student Presentation** für herausragende Datenanalyse und Ergebnisdarstellung ([Video](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s))
+        - Entwicklung und Optimierung von **NGS-Analysepipelines** für große multiparentale Populationen
+        - Erstellung und Publikation des Tools **haploMAGIC** für Phasing und Crossover-Detektion trotz Genotypisierungsfehlern
+        - Anwendung von **Machine Learning** (Regression, Klassifikation) auf genomische Multi-Omics-Daten mit Python (scikit-learn) und R (tidymodels)
+        - Nutzung von **SQL** zur effizienten Verwaltung und Abfrage von Millionen von Datensätzen
+        - Aufbau reproduzierbarer **Workflows** für Genomanalysen mit Quarto, Bash, Git und HPC (SLURM)
+        - Erstellung von interaktiven Visualisierungen (Shiny) und Berichten für interdisziplinäre Teams
+        - Betreuung von Studierenden und Training von Kolleg:innen in Git und Workflow-Entwicklung
     - role: "Industriepraktikant"
       time: "März 2021 – April 2021"
       company: "Deutsche Saatveredelung (DSV)"
       details: |
-        - Einblicke in **unternehmerische Abläufe** und **datenbasierte Entscheidungsprozesse**
+        - Einblicke in **unternehmerische Abläufe** und erste Praxis in **datengetriebener Entscheidungsfindung**
     - role: "Lehrer für Naturwissenschaften"
       time: "Sep 2018 – Jul 2019"
       company: "Holmer Green Senior School (HGSS)"
       details: |
         - Unterricht in Physik, Chemie und Biologie
         - Betreuung praktischer Übungen, Bewertung von Aufgaben und Prüfungen
-        - **Regelmäßige Kommunikation mit Eltern und Kolleg:innen**
+        - **Kommunikation mit Eltern und Kolleg:innen**
 
 education:
   title: Ausbildung
@@ -42,12 +43,12 @@ education:
       university: "Justus-Liebig-Universität (JLU)"
       time: "März 2022 – Feb 2025 (vorauss.)"
       details: |
-        - Schwerpunkt: **Machine Learning, Datenanalyse, Statistik, Workflow-Entwicklung** für große Datensätze
+        - Schwerpunkt: **NGS-Datenanalyse, Machine Learning, Statistik, Workflow-Entwicklung**
     - degree: "M.Sc. in Agrobiotechnologie"
       university: "Justus-Liebig-Universität (JLU)"
       time: "Okt 2019 – Okt 2021"
       details: |
-        - Schwerpunkt: **Programmierung und Datenanalyse mit R**
+        - Schwerpunkt: **Programmierung und Datenanalyse (R, Python)**
     - degree: "M.Ed. Lehramtsausbildung Sekundarstufe"
       university: "Universität Extremadura (UEx)"
       time: "Okt 2017 – Jun 2018"
@@ -55,7 +56,7 @@ education:
       university: "Universität Sevilla (US)"
       time: "Sep 2013 – Jul 2017"
       details: |
-        - Vielfältige Laborpraktika; Bachelorarbeit zur Analyse großer biologischer Datensätze
+        - Laborpraktika; Bachelorarbeit zur **Analyse großer biologischer Datensätze**
 
 publications:
   title: Beiträge / Veröffentlichungen
@@ -99,7 +100,7 @@ sidebar:
   education: False
 
   name: Jose Montero
-  tagline: Data Scientist (ML | Python/R | SQL) – Detailorientiert & Teamorientiert
+  tagline: Zuverlässiger Bioinformatiker mit Interesse an Humangenetik
   avatar: agrobioinformatics.jpg
 
   fullname: "Montero Tena, José Antonio"
@@ -127,29 +128,29 @@ sidebar:
     categories:
       - title: "💻 Programmierung & Scripting"
         info:
-          - idiom: Python (scikit-learn, Pandas)
-            level: ★★★★☆
+          - idiom: Python (scikit-learn, Pandas, NumPy)
+            level: ★★★★★
           - idiom: R (tidymodels, tidyverse)
             level: ★★★★★
           - idiom: SQL
             level: ★★★★☆
           - idiom: Bash
             level: ★★★★☆
-      - title: "📊 Datenanalyse & ML"
+      - title: "🧬 Genomik & Datenanalyse"
         info:
-          - idiom: Klassifikation & Regression
+          - idiom: NGS-Datenanalyse (WGS, RNA-Seq, WGBS)
             level: ★★★★★
-          - idiom: Explorative Datenanalyse
+          - idiom: Eigene Tools (haploMAGIC)
             level: ★★★★★
-          - idiom: Feature Engineering
+          - idiom: Klassifikation & Regression (ML)
+            level: ★★★★★
+          - idiom: Feature Engineering & Explorative Analyse
             level: ★★★★☆
-          - idiom: Präsentationen & Workshops
-            level: ★★★★★
       - title: "🖥️ Tools & Infrastruktur"
         info:
           - idiom: Git, Quarto, Shiny
             level: ★★★★★
-          - idiom: HPC & Linux-Terminal
+          - idiom: HPC & Linux-Terminal (SLURM)
             level: ★★★★☆
           - idiom: Spark, Hive (Grundkenntnisse)
             level: ★★☆☆☆
@@ -160,3 +161,4 @@ sidebar:
       - item: "🎸 Klassische Gitarre"
       - item: "🚵 Mountainbike"
       - item: "🗣️ Sprachen"
+
