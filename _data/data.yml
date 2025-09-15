@@ -94,6 +94,17 @@ certifications:
       credentialurl: www.linkedin.com/posts/joseantoniomonterotena_completion-certificate-for-whole-genome-sequencing-activity-6848685870837575682-CJvV
       credentialname: link
 
+recommendations:
+  title: Recommendations
+  list:
+  - person: Prof. Dr. Agnieszka A Golicz
+    email: Agnieszka.Golicz@agrar.uni-giessen.de 
+    phone: +496419937432
+    role: Professor for Agrobioinformatics at Justus Liebig University
+    recommendation: |
+      *""Jose verfügt über sehr ausgeprägte technische Fähigkeiten, einschließlich umfassender Kenntnisse in R, Bash-Skripting, Versionskontrolle und Hochleistungsrechnen. In unserer Gruppe ist er zu einem Ansprechpartner für verschiedene Programmier- und technische Fragestellungen geworden. Er zeigt ein starkes Engagement für Open-Source-Programmierung, die Umsetzung guter Programmierpraktiken und ist ein engagierter Git-Nutzer. Dadurch hat er auch andere Mitglieder der Gruppe im Umgang mit Versionskontrolle durch Git geschult."* ([Siehe Empfehlungsschreiben](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+      
+
 sidebar:
   position: left
   about: False
@@ -162,3 +173,4 @@ sidebar:
       - item: "🎸 Klassische Gitarre"
       - item: "🚵 Mountainbike"
       - item: "🗣️ Sprachen"
+
