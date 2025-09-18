@@ -105,7 +105,7 @@ sidebar:
   about: False
   education: False
   name: Jose Montero
-  tagline: Zuverlässiger Bioinformatiker mit Interesse an Humangenetik
+  tagline: Problemlösungsorientierter, technisch versierter Bioinformatiker in der Genomik
   avatar: agrobioinformatics.jpg
   fullname: "Montero Tena, José Antonio"
   citizenship: Spanier
@@ -189,3 +189,4 @@ sidebar:
       - item: "🎸 Klassische Gitarre"
       - item: "🚵 Mountainbike"
       - item: "🗣️ Sprachen"
+
