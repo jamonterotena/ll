@@ -2,13 +2,13 @@ career-profile:
   title: ÜBER MICH
   summary: |
         - Erfahrung in **Bioinformatik und Datenwissenschaft** mit Schwerpunkt auf **Next-Generation Sequencing (NGS)** und **genomischen Datenanalysen**
-        - Entwicklung von **eigenen Bioinformatik-Tools** (z. B. [haploMAGIC](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)), optimiert für komplexe genomische Datensätze
-        - Fundierte Programmierkenntnisse in **Python (scikit-learn, Pandas, NumPy)** und **R (tidymodels, tidyverse)** für Datenmodellierung, Feature-Engineering und ML
+        - Identifizierung von **Biomarkern für Haplotypen** durch Variant Calling von NGS-Daten (M.Sc.-Arbeit)
+        - Entwicklung des R-Tools [**haploMAGIC**](https://github.com/GoliczGenomeLab/haploMAGIC) zur Analyse genetischer Markerdaten (Phasing, Crossover-Detektion)
         - Praxis in **SQL** und Erfahrung mit Datenbanken, Datenintegration und explorativer Analyse
-        - Erstellung von reproduzierbaren **Workflows** und **Pipelines** (Quarto, Bash, HPC, Git) für großskalige Datenprojekte
+        - Erstellung von reproduzierbaren **Workflows** und **Pipelines** (Quarto, Bash, HPC, Git) für großskalige Multi-Omics-Projekte
         - Sehr gute Kommunikationsfähigkeiten: Workshops, Konferenzvorträge, [preisgekrönte Präsentationen](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
         - Teamorientiert, detailorientiert und hoch motiviert, moderne **Daten- & KI-Lösungen** in der Genomik umzusetzen
-
+#        - Fundierte Programmierkenntnisse in **Python (scikit-learn, Pandas, NumPy)** und **R (tidymodels, tidyverse)** für Datenmodellierung, Feature-Engineering und ML
 experiences:
   title: BERUFSERFAHRUNG
   info:
@@ -35,7 +35,6 @@ experiences:
         - Unterricht in Physik, Chemie und Biologie
         - Betreuung praktischer Übungen, Bewertung von Aufgaben und Prüfungen
         - **Kommunikation mit Eltern und Kolleg:innen**
-
 education:
   title: Ausbildung
   info:
@@ -49,6 +48,7 @@ education:
       time: "Okt 2019 – Okt 2021"
       details: |
         - Schwerpunkt: **Programmierung und Datenanalyse (R, Python)**
+        - Identifizierung von **Biomarkern für Haplotypen von Interesse** mittels Variant Calling (NGS-Daten)
     - degree: "M.Ed. Lehramtsausbildung Sekundarstufe"
       university: "Universität Extremadura (UEx)"
       time: "Okt 2017 – Jun 2018"
@@ -103,8 +103,6 @@ recommendations:
     role: Professor for Agrobioinformatics at Justus Liebig University
     recommendation: |
       *""Jose verfügt über sehr ausgeprägte technische Fähigkeiten, einschließlich umfassender Kenntnisse in R, Bash-Skripting, Versionskontrolle und Hochleistungsrechnen. In unserer Gruppe ist er zu einem Ansprechpartner für verschiedene Programmier- und technische Fragestellungen geworden. Er zeigt ein starkes Engagement für Open-Source-Programmierung, die Umsetzung guter Programmierpraktiken und ist ein engagierter Git-Nutzer. Dadurch hat er auch andere Mitglieder der Gruppe im Umgang mit Versionskontrolle durch Git geschult."* ([Siehe Empfehlungsschreiben](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
-      
-
 sidebar:
   position: left
   about: False
@@ -113,7 +111,6 @@ sidebar:
   name: Jose Montero
   tagline: Zuverlässiger Bioinformatiker mit Interesse an Humangenetik
   avatar: agrobioinformatics.jpg
-
   fullname: "Montero Tena, José Antonio"
   citizenship: Spanier
   timezone: Europe/Berlin
@@ -122,7 +119,6 @@ sidebar:
   github: jamonterotena
   phone: "+34 603 769 969"
   certificates: https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0  
-
   languages:
     title: Sprachen
     info:
@@ -134,43 +130,66 @@ sidebar:
         level: ★★★★★
       - idiom: Italienisch
         level: ★★★☆☆
-
   skills_sidebar:
     title: Fähigkeiten
     categories:
       - title: "💻 Programmierung & Scripting"
         info:
-          - idiom: Python (scikit-learn, Pandas, NumPy)
+          - idiom: R
             level: ★★★★★
-          - idiom: R (tidymodels, tidyverse)
-            level: ★★★★★
-          - idiom: SQL
-            level: ★★★★☆
           - idiom: Bash
+            level: ★★★★★
+          - idiom: Python (scikit-learn, Pandas, NumPy)
             level: ★★★★☆
+          - idiom: SQL
+            level: ★★★☆☆
       - title: "🧬 Genomik & Datenanalyse"
         info:
+          - idiom: Multi-omics-Datenanalyse
+            level: ★★★★★
           - idiom: NGS-Datenanalyse (WGS, RNA-Seq, WGBS)
             level: ★★★★★
           - idiom: Eigene Tools (haploMAGIC)
             level: ★★★★★
-          - idiom: Klassifikation & Regression (ML)
-            level: ★★★★★
-          - idiom: Feature Engineering & Explorative Analyse
-            level: ★★★★☆
+          - idiom: VarSome (Variant Annotation)
+            level: ★★★☆☆
+#          - idiom: Klassifikation & Regression (ML)
+#            level: ★★★★★
+#          - idiom: Feature Engineering & Explorative Analyse
+#            level: ★★★★☆
       - title: "🖥️ Tools & Infrastruktur"
         info:
-          - idiom: Git, Quarto, Shiny
+          - idiom: Git Versionskontrolle
             level: ★★★★★
           - idiom: HPC & Linux-Terminal (SLURM)
+            level: ★★★★★
+          - idiom: statische Berichte mit Quarto
+            level: ★★★★★
+          - idiom: interactive Berichte mit Shiny
             level: ★★★★☆
-          - idiom: Spark, Hive (Grundkenntnisse)
-            level: ★★☆☆☆
-
+#          - idiom: HPC & Linux-Terminal (SLURM)
+#            level: ★★★★☆
+#          - idiom: Spark, Hive (Grundkenntnisse)
+#            level: ★★☆☆☆
+        - title: 🎯 Produktivität
+          info:
+            - idiom: Schnelles Tippen
+              level: ★★★★★
+            - idiom: Versionskontrolle
+              level: ★★★☆☆
+        - title: 🚗 Weitere Fähigkeiten
+          info:
+            - idiom: Teamarbeit und Zusammenarbeit
+              level: ★★★★★          
+            - idiom: Mündliche & schriftliche Kommunikation
+              level: ★★★★★  
+            - idiom: Lehre/Schulung/Mentoring
+              level: ★★★★★
+            - idiom: Führerschein Klasse B
+              level: ★★★★★
   interests:
     title: Interessen
     info:
       - item: "🎸 Klassische Gitarre"
       - item: "🚵 Mountainbike"
       - item: "🗣️ Sprachen"
-
