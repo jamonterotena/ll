@@ -57,7 +57,6 @@ education:
       time: "Sep 2013 – Jul 2017"
       details: |
         - Laborpraktika; Bachelorarbeit zur **Analyse großer biologischer Datensätze**
-
 publications:
   title: Beiträge / Veröffentlichungen
   papers:
@@ -69,7 +68,6 @@ publications:
       authors: "Montero-Tena JA"
       conference: "IRC International Rapeseed Congress, Sydney, Australien (2023)"
       link: https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s
-
 certifications:
   title: Zertifikate
   list:
@@ -93,7 +91,6 @@ certifications:
       organization: "Coursera, TU Dänemark"
       credentialurl: www.linkedin.com/posts/joseantoniomonterotena_completion-certificate-for-whole-genome-sequencing-activity-6848685870837575682-CJvV
       credentialname: link
-
 recommendations:
   title: Recommendations
   list:
@@ -107,7 +104,6 @@ sidebar:
   position: left
   about: False
   education: False
-
   name: Jose Montero
   tagline: Zuverlässiger Bioinformatiker mit Interesse an Humangenetik
   avatar: agrobioinformatics.jpg
@@ -171,22 +167,22 @@ sidebar:
 #            level: ★★★★☆
 #          - idiom: Spark, Hive (Grundkenntnisse)
 #            level: ★★☆☆☆
-        - title: 🎯 Produktivität
-          info:
-            - idiom: Schnelles Tippen
-              level: ★★★★★
-            - idiom: Versionskontrolle
-              level: ★★★☆☆
-        - title: 🚗 Weitere Fähigkeiten
-          info:
-            - idiom: Teamarbeit und Zusammenarbeit
-              level: ★★★★★          
-            - idiom: Mündliche & schriftliche Kommunikation
-              level: ★★★★★  
-            - idiom: Lehre/Schulung/Mentoring
-              level: ★★★★★
-            - idiom: Führerschein Klasse B
-              level: ★★★★★
+      - title: 🎯 Produktivität
+        info:
+          - idiom: Schnelles Tippen
+            level: ★★★★★
+          - idiom: Versionskontrolle
+            level: ★★★☆☆
+      - title: 🚗 Weitere Fähigkeiten
+        info:
+          - idiom: Teamarbeit und Zusammenarbeit
+            level: ★★★★★          
+          - idiom: Mündliche & schriftliche Kommunikation
+            level: ★★★★★  
+          - idiom: Lehre/Schulung/Mentoring
+            level: ★★★★★
+          - idiom: Führerschein Klasse B
+            level: ★★★★★
   interests:
     title: Interessen
     info:
