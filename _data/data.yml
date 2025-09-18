@@ -7,7 +7,7 @@ career-profile:
         - Praxis in **SQL** und Erfahrung mit Datenbanken, Datenintegration und explorativer Analyse
         - Erstellung von reproduzierbaren **Workflows** und **Pipelines** (Quarto, Bash, HPC, Git) für großskalige Multi-Omics-Projekte
         - Sehr gute Kommunikationsfähigkeiten: Workshops, Konferenzvorträge, [preisgekrönte Präsentationen](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
-        - Teamorientiert, detailorientiert und hoch motiviert, moderne **Daten- & KI-Lösungen** in der Genomik umzusetzen
+#        - Teamorientiert, detailorientiert und hoch motiviert, moderne **Daten- & KI-Lösungen** in der Genomik umzusetzen
 #        - Fundierte Programmierkenntnisse in **Python (scikit-learn, Pandas, NumPy)** und **R (tidymodels, tidyverse)** für Datenmodellierung, Feature-Engineering und ML
 experiences:
   title: BERUFSERFAHRUNG
@@ -189,4 +189,5 @@ sidebar:
       - item: "🎸 Klassische Gitarre"
       - item: "🚵 Mountainbike"
       - item: "🗣️ Sprachen"
+
 
